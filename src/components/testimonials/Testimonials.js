@@ -15,7 +15,7 @@ export default function Testimonials() {
         {
             id: 2,
             name: "Claud Watari",
-            title: "Senier Back-end Developer",
+            title: "Senior Back-end Developer",
             img:"assets/kamau.jpeg",
             icon: "assets/youtube.png",
             desc:
