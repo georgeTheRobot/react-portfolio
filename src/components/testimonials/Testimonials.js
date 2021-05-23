@@ -10,7 +10,7 @@ export default function Testimonials() {
             img: "assets/charles.jpeg",
             icon: "assets/twitter.png",
             desc:
-                "Working with George was better than expected and we had really high expectations. He is an incredibly talented developer but what really makes him stand out is his work ethic and steady approach",
+                "Working with George was better than expected and we had really high expectations. He is an incredibly talented developer but what really makes him stand out is his work ethic and steady approach.",
         },
         {
             id: 2,
@@ -19,7 +19,7 @@ export default function Testimonials() {
             img:"assets/kamau.jpeg",
             icon: "assets/youtube.png",
             desc:
-                "Working with George was better than expected and we had really high expectations. He is an incredibly talented developer but what really makes him stand out is his work ethic and steady approach ",
+                "My new site created by George just launched. He has done a great job of creating exactly what I wanted. Easy to work with and very responsive. He met all of my expectations and had a lot of insight regarding marketing tools I didn't know existed.",
             featured: true,
         },
         {
@@ -29,7 +29,7 @@ export default function Testimonials() {
             img: "assets/wayne.jpeg",
             icon: "assets/youtube.png",
             desc:
-                "Working with George was better than expected and we had really high expectations. He is an incredibly talented developer but what really makes him stand out is his work ethic and steady approach",
+                "Fantastic work! I am just impressed by his service quality and working strategy. I hired him for the development of my online store and he has satisfied me to the full by delivering the exceptional solution. He has a great expertise, is dedicated, attentive, talented and care much about client needs. Highly recommended.",
         },
     ];
     return (
